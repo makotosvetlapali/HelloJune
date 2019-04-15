@@ -6,7 +6,7 @@ public class Main {
 		
 		System.out.println("June was here");
 		
-		System.out.println("Andrija was not here");
+		System.out.println("Andrija was here");
 
 
 	}
